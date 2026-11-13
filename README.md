@@ -164,7 +164,6 @@ Exploring the possibilities of computational technologies in biological and heal
 |:---|:---|:---:|:---:|
 | Integral University, Lucknow | B.Tech Biotechnology | 2025–2029 | **9.11 CGPA** |
 | City Montessori School | Intermediate | 2023 | 91.50% |
-| City Montessori School | High School | 2020 | 82.80% |
 
 ---
 
